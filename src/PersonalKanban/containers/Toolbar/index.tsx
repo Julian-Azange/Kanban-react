@@ -274,7 +274,7 @@ const InfoButton: React.FC<{}> = () => {
             <Button variant="contained" color="primary">
               <Link
                 color="inherit"
-                href="https://tinymanager.js.org/"
+                href=""
                 target="_blank"
               >
                 Get Started
@@ -316,7 +316,9 @@ const Toolbar: React.FC<ToolbarProps> = (props) => {
 
           &nbsp;
           <Typography variant={isMobile ? "body1" : "h6"}>
+          <img src="https://github.com/Julian-Azange/Kanban-react/blob/main/public/readme_logo_de.png?raw=true" alt="" style={{ width: '119px', height: '30px', marginRight: '20px' }} />
             <b>{t("Kanban | Proyectos Tecnoparque | Lab. Virtuales & Electronica")}</b>
+            
           </Typography>
         </Box>
         <Box display="flex" flexGrow={1} />
