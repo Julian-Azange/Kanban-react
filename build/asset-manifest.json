@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Kanban-react/build/static/css/main.5a0187ba.chunk.css",
-    "main.js": "/Kanban-react/build/static/js/main.bbae932f.chunk.js",
-    "main.js.map": "/Kanban-react/build/static/js/main.bbae932f.chunk.js.map",
-    "runtime-main.js": "/Kanban-react/build/static/js/runtime-main.ddbf5dc0.js",
-    "runtime-main.js.map": "/Kanban-react/build/static/js/runtime-main.ddbf5dc0.js.map",
-    "static/js/2.9f9eabf9.chunk.js": "/Kanban-react/build/static/js/2.9f9eabf9.chunk.js",
-    "static/js/2.9f9eabf9.chunk.js.map": "/Kanban-react/build/static/js/2.9f9eabf9.chunk.js.map",
-    "static/js/3.370f1f90.chunk.js": "/Kanban-react/build/static/js/3.370f1f90.chunk.js",
-    "static/js/3.370f1f90.chunk.js.map": "/Kanban-react/build/static/js/3.370f1f90.chunk.js.map",
-    "index.html": "/Kanban-react/build/index.html",
-    "service-worker.js": "/Kanban-react/build/service-worker.js",
-    "service-worker.js.map": "/Kanban-react/build/service-worker.js.map",
-    "static/css/main.5a0187ba.chunk.css.map": "/Kanban-react/build/static/css/main.5a0187ba.chunk.css.map",
-    "static/js/2.9f9eabf9.chunk.js.LICENSE.txt": "/Kanban-react/build/static/js/2.9f9eabf9.chunk.js.LICENSE.txt"
+    "main.css": "/Kanban-react/static/css/main.5a0187ba.chunk.css",
+    "main.js": "/Kanban-react/static/js/main.95b73bed.chunk.js",
+    "main.js.map": "/Kanban-react/static/js/main.95b73bed.chunk.js.map",
+    "runtime-main.js": "/Kanban-react/static/js/runtime-main.371b90b9.js",
+    "runtime-main.js.map": "/Kanban-react/static/js/runtime-main.371b90b9.js.map",
+    "static/js/2.9f9eabf9.chunk.js": "/Kanban-react/static/js/2.9f9eabf9.chunk.js",
+    "static/js/2.9f9eabf9.chunk.js.map": "/Kanban-react/static/js/2.9f9eabf9.chunk.js.map",
+    "static/js/3.370f1f90.chunk.js": "/Kanban-react/static/js/3.370f1f90.chunk.js",
+    "static/js/3.370f1f90.chunk.js.map": "/Kanban-react/static/js/3.370f1f90.chunk.js.map",
+    "index.html": "/Kanban-react/index.html",
+    "service-worker.js": "/Kanban-react/service-worker.js",
+    "service-worker.js.map": "/Kanban-react/service-worker.js.map",
+    "static/css/main.5a0187ba.chunk.css.map": "/Kanban-react/static/css/main.5a0187ba.chunk.css.map",
+    "static/js/2.9f9eabf9.chunk.js.LICENSE.txt": "/Kanban-react/static/js/2.9f9eabf9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ddbf5dc0.js",
+    "static/js/runtime-main.371b90b9.js",
     "static/js/2.9f9eabf9.chunk.js",
     "static/css/main.5a0187ba.chunk.css",
-    "static/js/main.bbae932f.chunk.js"
+    "static/js/main.95b73bed.chunk.js"
   ]
 }
