@@ -57,7 +57,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://julian-azange.github.io/Kanban-react/",
+  "homepage": "https://julian-azange.github.io/Kanban-react/build/",
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@storybook/addon-actions": "^6.0.27",
